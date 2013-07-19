@@ -1,0 +1,2 @@
+You can download Python 2.7 by following links on the Python website:
+http://python.org/download/releases/2.7/

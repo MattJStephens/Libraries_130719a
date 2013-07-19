@@ -1,0 +1,2 @@
+You can download the PhysX SDK 2.8.4 by following links on the NVIDIA website:
+https://developer.nvidia.com/physx-downloads

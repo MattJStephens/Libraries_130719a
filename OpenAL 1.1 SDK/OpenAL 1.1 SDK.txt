@@ -1,0 +1,3 @@
+OpenAL 1.1 SDK
+You can download the OpenAL SDK by following links on the OpenAL website:
+http://connect.creativelabs.com/openal/default.aspx

@@ -1,0 +1,11 @@
+Boost C++ libraries
+You can download the boost library by following links on the boost website:
+
+http://www.boost.org/
+http://www.boost.org/doc/libs/
+
+Boost 1.50.0 Library Documentation
+http://www.boost.org/doc/libs/1_50_0/
+
+Boost licence
+http://www.boost.org/users/license.html
